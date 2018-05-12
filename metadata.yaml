@@ -1,4 +1,8 @@
 _repo: Animal-Parasites-and-Messmates_48010
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beneden, P. J. Van
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44577
     wikipedia: http://en.wikipedia.org/wiki/Pierre-Joseph_van_Beneden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48010#Animal-Parasites-and-Messmates
 gutenberg_issued: '2015-01-18'
 gutenberg_type: Text
 identifiers:
